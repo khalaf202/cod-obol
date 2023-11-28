@@ -11,4 +11,4 @@ screen -S charon
 
 docker-compose up
 
-ctrl+a+d
+
